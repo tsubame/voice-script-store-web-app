@@ -1,0 +1,89 @@
+//======================================================
+//
+// variables.scss 変数定義用
+//
+//======================================================
+
+// グレーの背景色
+$bg-grey-color: #F4F4F4;
+
+// 青の背景色
+$bg-blue-color: #f2f5f7;
+
+// オレンジの背景色
+$bg-orange-color: #F9F8F2;
+
+// 台本アイテムの背景色
+$script-item-bg-color: white;
+
+// カードの枠線の色
+$card-border-color: #cccccc;
+
+// カードの枠線の色
+$content-card-border-color: #BBBBBB;
+
+// 台本フルスクリーン時のカードの外枠
+$script-full-screen-card-border-color: #BBBBBB;
+
+// 台本詳細でのセリフ選択時の背景色
+$script-detail-selected-word-color: #E3F2FD;
+
+// フルスクリーン建て書き表示時のセリフ選択時の背景色
+$fullscreen-vertical-selected-word-color: #ececec;
+
+// フルスクリーン横書き表示時のセリフ選択時の背景色
+$fullscreen-horizontal-selected-word-color: #eaf5fd;
+
+// ヘッダの最大幅
+$header-max-width: 1200px;
+
+// ヘッダ1段目の最大幅
+$header-top-max-width: 1400px;
+
+// ヘッダ2段目の最大幅
+$header-bottom-max-width: 1200px;
+
+// 台本フルスクリーン時のヘッダの高さ
+$script-full-screen-header-height: 50px;
+
+// フッタの高さ
+$footer-height: 60px;
+
+// コンテンツの最大幅
+$content-max-width: 1100px;
+
+// 台本フルスクリーン時のインナーコンテナの幅
+$script-full-screen-inner-width: 98%;
+
+// 台本ヘッダの高さ
+$script-header-height: 150px;
+
+// コンテンツヘッダの高さ
+$content-header-height: 120px;
+
+// indexの最大幅
+$index-max-width: 950px;
+
+// 各ページのヘッダ画像の高さ
+$content_header-height: 120px;
+
+// フルスクリーンときのコンテンツの最大幅
+$full-screen-content-max-width: 1700px;
+
+// indexのスクロールバーの幅
+$index-scrollbar-width: 4px;
+
+// キャラクターの幅
+$chara-width: 70px;
+
+// キャラクターの透明度
+$character-opacity: 1; //0.9;
+
+// マイページで使用するヘッダ画像のパス
+$my-page-header-image-path: url('/web-app/img/bg/sakura-blooming-park-m.jpg');
+
+// about、利用規約ページなどで使用するヘッダ画像のパス
+$info-page-header-image-path: url('/web-app/img/bg/school-noon-m.jpg');
+
+// select要素右側のarrowアイコン
+$select-arrow-icon-url: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjOTk5OTk5Ij4KICA8cGF0aCBkPSJNNywxMEwxMiwxNUwxNywxMEg3WiIgLz4KPC9zdmc+');
