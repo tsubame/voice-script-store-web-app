@@ -13,8 +13,6 @@
 | CSSフレームワーク               | Vuetify 3        |
 | バックエンドAPI                 | FuelPHP、Laravel |
 | データベース                    | MySQL 8          |
-| フロントWebアプリホスティング   | リトルサーバー   |
-| バックエンドAPIホスティング     | リトルサーバー   |
 | アクセス解析                    | Google Analitycs |
 | Googleログイン認証              | PHP Socialite    |
 
