@@ -37,16 +37,6 @@
 //      対象IDの台本を取得
 //    - usePostSearchScript()
 //      台本検索
-//    - usePostCreateScript()
-//      台本投稿
-//    - usePostUpdateScript()
-//      台本更新
-//    - usePostUpdateScriptWatchCount()
-//      台本閲覧数更新
-//    - usePostDeleteScript()
-//      台本削除
-//    - usePostLinkScriptsByNameAndPassword()
-//      作者名、パスワードを元に台本紐づけ
 //
 //  - 4. 台本お気に入り関連
 //    - useGetReadScriptFavoritesByUserid()
